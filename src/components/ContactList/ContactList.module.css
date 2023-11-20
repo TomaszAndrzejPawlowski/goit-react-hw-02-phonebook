@@ -13,3 +13,7 @@
   margin: auto 15px;
   border-radius: 30%;
 }
+.listItem button:hover,
+.listItem button:focus {
+  background-color: #dadada;
+}

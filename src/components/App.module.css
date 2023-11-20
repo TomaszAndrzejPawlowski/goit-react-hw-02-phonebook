@@ -8,3 +8,6 @@
 .titles {
   margin-left: 15px;
 }
+button {
+  cursor: pointer;
+}
